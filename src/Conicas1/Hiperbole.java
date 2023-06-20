@@ -96,5 +96,6 @@ public class Hiperbole {
 
         int v2 = (int) (x+a);
         System.out.println("El vertice 2 es: ("+v2+", -1)");
+    //
     }
 }

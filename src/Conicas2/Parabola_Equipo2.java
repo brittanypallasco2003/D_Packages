@@ -71,4 +71,5 @@ public class Parabola_Equipo2 {
     public void setC(float c) {
         this.c = c;
     }
+//
 }

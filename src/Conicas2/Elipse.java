@@ -43,6 +43,7 @@ public class Elipse {
     public void imprimir_Datos(){
         System.out.println("\nEl perimetro de la elipse es: " + perimetro_elipse());
         System.out.println("El area de la elipse es: " + area_elipse());
+    //
     }
 
 }
