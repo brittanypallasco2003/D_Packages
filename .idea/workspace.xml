@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf4bad31-64d7-453c-b5c5-01bbff6a2182" name="Changes" comment="se importa el package de las clases del equipo contrario">
-      <change beforePath="$PROJECT_DIR$/src/Conicas1/Circunferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conicas1/Circunferencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conicas1/ELIPSEE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conicas1/ELIPSEE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conicas1/Hiperbole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conicas1/Hiperbole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conicas1/Parabola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conicas1/Parabola.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conicas2/Elipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conicas2/Elipse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conicas2/Parabola_Equipo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conicas2/Parabola_Equipo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conicas2/circunferencia_grupo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conicas2/circunferencia_grupo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conicas2/hiperbole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conicas2/hiperbole.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687240396416</updated>
-      <workItem from="1687240397559" duration="446000" />
+      <workItem from="1687240397559" duration="2387000" />
     </task>
     <task id="LOCAL-00001" summary="se importa el package de las clases del equipo contrario">
       <created>1687240726485</created>
@@ -65,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687240726485</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="se importa el package de las clases del equipo contrario">
+      <created>1687240896361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687240896361</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
