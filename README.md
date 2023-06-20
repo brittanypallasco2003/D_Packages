@@ -10,5 +10,9 @@ Los miembros del equipo1 van a implementar un menú mostrando el uso e implement
 ### Opción 3: Hipérbole
 ![image](https://github.com/brittanypallasco2003/D_Packages/assets/117743650/ff60a5ed-dae6-43a0-8a8b-4b4779ccd65c)
 ![image](https://github.com/brittanypallasco2003/D_Packages/assets/117743650/7acf8568-9a46-4e2e-a2f9-eae1710564cc)
+### Opción 4: Parábola
+![image](https://github.com/brittanypallasco2003/D_Packages/assets/117743650/ded6e338-dade-4d84-80c9-be9270d10996)
+### Opción Incorrecta y Opción 5:
+![image](https://github.com/brittanypallasco2003/D_Packages/assets/117743650/37309a6c-af3f-4c0f-8a8b-a74979a14482)
 
 
